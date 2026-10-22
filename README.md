@@ -27,7 +27,7 @@ Lately I focus on **AI-integrated products** — from LLM-powered nutrition trac
 
 ## Featured work
 
-### 🥗 Forksy — AI-powered nutrition platform
+### 🥗 Forksy - AI-powered nutrition platform
 Led full-stack architecture of a conversational diet-tracking platform that turns natural-language food entries into precise nutritional data.
 
 - Custom-tuned LLM prompts parsing free-form meals (~90% accuracy)
@@ -37,7 +37,7 @@ Led full-stack architecture of a conversational diet-tracking platform that turn
 
 `React` `Node.js` `TypeScript` `PostgreSQL` `OpenAI API` `Docker`  ·  [🔗 Link](https://getforksy.com/))
 
-### 📖 Readmio — Family reading companion
+### 📖 Readmio - Family reading companion
 Directed mobile development and architecture of an interactive storytelling app with on-device AI.
 
 - Real-time voice analysis that syncs soundscapes while the user reads aloud
@@ -94,5 +94,5 @@ Directed mobile development and architecture of an interactive storytelling app 
 
 <p align="center">
   <b>Looking for a Senior Full-Stack / Mobile engineer on a remote-first team?</b><br/>
-  Message me on <a href="https://www.linkedin.com/in/[your-handle]">LinkedIn</a> or <a href="mailto:[your@email.com]">email</a>.
+  Message me on <a href="https://www.linkedin.com/in/denys-rudnik">LinkedIn</a> or <a href="mailto:cloudcontext99@gmail.com">email</a>.
 </p>
