@@ -2,10 +2,7 @@
   <img src="banner.png" alt="Denys Rudnik - Senior Full-Stack Engineer" width="100%"/>
 </p>
 
-<h1 align="center">Denys Rudnik</h1>
-
 <p align="center">
-  <b>Senior Full-Stack Engineer</b> · React · Next.js · Node/NestJS · React Native<br/>
   6+ years shipping production software for remote teams · Ukraine · Open to remote EU/US roles
 </p>
 
