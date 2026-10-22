@@ -17,7 +17,7 @@
 ## Overview
 
 I build products end-to-end: event-driven backends, cross-platform mobile apps and fast web interfaces.
-Lately I focus on **AI-integrated products** — from LLM-powered nutrition tracking to on-device AI in a mobile reading app.
+Lately I focus on **AI-integrated products** - from LLM-powered nutrition tracking to on-device AI in a mobile reading app.
 
 |  🌐 **Web** | 📱 **Mobile** | ⚙️ **Backend & Cloud** | 🤖 **AI products** |
 |:---|:---|:---|:---|
