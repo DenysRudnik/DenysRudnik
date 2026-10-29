@@ -25,30 +25,6 @@ Lately I focus on **AI-integrated products** - from LLM-powered nutrition tracki
 
 ---
 
-## Featured work
-
-### 🥗 Forksy - AI-powered nutrition platform
-Led full-stack architecture of a conversational diet-tracking platform that turns natural-language food entries into precise nutritional data.
-
-- Custom-tuned LLM prompts parsing free-form meals (~90% accuracy)
-- Real-time backend pipeline mapping ingredients to global food databases
-- Predictive feedback engine with personalized meal recommendations
-- Containerized deployment with optimized caching, sub-second responses
-
-`React` `Node.js` `TypeScript` `PostgreSQL` `OpenAI API` `Docker`  ·  [🔗 Link](https://getforksy.com/))
-
-### 📖 Readmio - Family reading companion
-Directed mobile development and architecture of an interactive storytelling app with on-device AI.
-
-- Real-time voice analysis that syncs soundscapes while the user reads aloud
-- Adaptive playback pacing based on the reader's voice
-- Cross-platform library with downloading and streaming for 50+ titles
-- Offline-first data layer for core audio and narrative features
-
-`React Native` `TypeScript` `PostgreSQL` `OpenAI API` `Push notifications`  ·  [🔗 Link](https://www.readmio.com/)
-
----
-
 ## Toolbox
 
 <table>
